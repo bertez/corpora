@@ -2,7 +2,7 @@
 
 Total: 570931 elements (includes conjugated verbs)
 
-**Warning: 123Mb file**
+**Warning: 81Mb file**
 
 Sample element:
 
