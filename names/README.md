@@ -6,8 +6,8 @@ Sample element:
 
 ```
     {
-        "galego": "Candeloria",
-        "castellano": "Candelaria",
+        "gl": "Candeloria",
+        "es": "Candelaria",
         "meaning": "Latín: Cirio, candea, luz.",
         "gender": "F"
     }
