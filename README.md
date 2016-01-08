@@ -8,6 +8,6 @@ Public domain.
 
 ## Collaborate
 
-If you have some data that you want to submit feel free to create a pull request. All data must be structured as (valid) JSON.
+If you have some data that you want to submit feel free to create a [pull request](https://help.github.com/articles/using-pull-requests/). All data must be structured as ([valid](http://jsonlint.com/)) JSON.
 
 Thank you.
