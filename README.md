@@ -4,7 +4,7 @@ This is a collection of corpus of Galician (or related to Galicia) words.
 
 ## License
 
-The default license is Public Domain if not specified otherwise in the source.
+The default license is Public Domain unless specified otherwise in the source.
 
 ## Collaborate
 
